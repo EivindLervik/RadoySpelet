@@ -1,0 +1,1344 @@
+fileFormatVersion: 2
+guid: 854326c351a94c34680a8f3d7d9772cb
+timeCreated: 1457302209
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Armature
+    100004: Empty
+    100006: Empty_001
+    100008: Empty_002
+    100010: Empty_003
+    100012: Face
+    100014: Head
+    100016: Jaw
+    100018: L_Arm
+    100020: L_Biceps
+    100022: L_Fot
+    100024: L_Fucker
+    100026: L_Fucker_001
+    100028: L_Fucker_002
+    100030: L_Fucker_003
+    100032: L_Laar
+    100034: L_Leg
+    100036: L_Legg
+    100038: L_Little
+    100040: L_Little_001
+    100042: L_Little_002
+    100044: L_Little_003
+    100046: L_Mouth
+    100048: L_Pointer
+    100050: L_Pointer_001
+    100052: L_Pointer_002
+    100054: L_Pointer_003
+    100056: L_Ring
+    100058: L_Ring_001
+    100060: L_Ring_002
+    100062: L_Ring_003
+    100064: L_Thumb
+    100066: L_Thumb_001
+    100068: L_Thumb_002
+    100070: L_Wanker
+    100072: Main
+    100074: Mouth
+    100076: Neck
+    100078: OverMouth
+    100080: pCube1
+    100082: R_Arm
+    100084: R_Biceps
+    100086: R_Fot
+    100088: R_Fucker
+    100090: R_Fucker_001
+    100092: R_Fucker_002
+    100094: R_Fucker_003
+    100096: R_Laar
+    100098: R_Leg
+    100100: R_Legg
+    100102: R_Little
+    100104: R_Little_001
+    100106: R_Little_002
+    100108: R_Little_003
+    100110: R_Mouth
+    100112: R_Pointer
+    100114: R_Pointer_001
+    100116: R_Pointer_002
+    100118: R_Pointer_003
+    100120: R_Ring
+    100122: R_Ring_001
+    100124: R_Ring_002
+    100126: R_Ring_003
+    100128: R_Thumb
+    100130: R_Thumb_001
+    100132: R_Thumb_002
+    100134: R_Wanker
+    100136: Torso
+    100138: UnderMouth
+    400000: //RootNode
+    400002: Armature
+    400004: Empty
+    400006: Empty_001
+    400008: Empty_002
+    400010: Empty_003
+    400012: Face
+    400014: Head
+    400016: Jaw
+    400018: L_Arm
+    400020: L_Biceps
+    400022: L_Fot
+    400024: L_Fucker
+    400026: L_Fucker_001
+    400028: L_Fucker_002
+    400030: L_Fucker_003
+    400032: L_Laar
+    400034: L_Leg
+    400036: L_Legg
+    400038: L_Little
+    400040: L_Little_001
+    400042: L_Little_002
+    400044: L_Little_003
+    400046: L_Mouth
+    400048: L_Pointer
+    400050: L_Pointer_001
+    400052: L_Pointer_002
+    400054: L_Pointer_003
+    400056: L_Ring
+    400058: L_Ring_001
+    400060: L_Ring_002
+    400062: L_Ring_003
+    400064: L_Thumb
+    400066: L_Thumb_001
+    400068: L_Thumb_002
+    400070: L_Wanker
+    400072: Main
+    400074: Mouth
+    400076: Neck
+    400078: OverMouth
+    400080: pCube1
+    400082: R_Arm
+    400084: R_Biceps
+    400086: R_Fot
+    400088: R_Fucker
+    400090: R_Fucker_001
+    400092: R_Fucker_002
+    400094: R_Fucker_003
+    400096: R_Laar
+    400098: R_Leg
+    400100: R_Legg
+    400102: R_Little
+    400104: R_Little_001
+    400106: R_Little_002
+    400108: R_Little_003
+    400110: R_Mouth
+    400112: R_Pointer
+    400114: R_Pointer_001
+    400116: R_Pointer_002
+    400118: R_Pointer_003
+    400120: R_Ring
+    400122: R_Ring_001
+    400124: R_Ring_002
+    400126: R_Ring_003
+    400128: R_Thumb
+    400130: R_Thumb_001
+    400132: R_Thumb_002
+    400134: R_Wanker
+    400136: Torso
+    400138: UnderMouth
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: pCube1
+    7400000: Default Take
+    7400002: Idle
+    7400004: Standstill
+    7400006: Bored
+    7400008: Sprint
+    7400010: T_Pose
+    7400012: Walk
+    7400014: Run
+    9500000: //RootNode
+    13700000: pCube1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: -1
+      lastFrame: 28
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/L_Leg
+        weight: 1
+      - path: Armature/Main/L_Leg/L_Laar
+        weight: 1
+      - path: Armature/Main/L_Leg/L_Laar/L_Legg
+        weight: 1
+      - path: Armature/Main/L_Leg/L_Laar/L_Legg/L_Fot
+        weight: 1
+      - path: Armature/Main/R_Leg
+        weight: 1
+      - path: Armature/Main/R_Leg/R_Laar
+        weight: 1
+      - path: Armature/Main/R_Leg/R_Laar/R_Legg
+        weight: 1
+      - path: Armature/Main/R_Leg/R_Laar/R_Legg/R_Fot
+        weight: 1
+      - path: Armature/Main/Torso
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Fucker
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Fucker/L_Fucker_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Fucker/L_Fucker_001/L_Fucker_002
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Fucker/L_Fucker_001/L_Fucker_002/L_Fucker_003
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Little
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Little/L_Little_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Little/L_Little_001/L_Little_002
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Little/L_Little_001/L_Little_002/L_Little_003
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Pointer
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Pointer/L_Pointer_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Pointer/L_Pointer_001/L_Pointer_002
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Pointer/L_Pointer_001/L_Pointer_002/L_Pointer_003
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Ring
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Ring/L_Ring_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Ring/L_Ring_001/L_Ring_002
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Ring/L_Ring_001/L_Ring_002/L_Ring_003
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Thumb
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Thumb/L_Thumb_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Thumb/L_Thumb_001/L_Thumb_002
+        weight: 1
+      - path: Armature/Main/Torso/Neck
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Jaw
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth/L_Mouth
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth/OverMouth
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth/R_Mouth
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth/UnderMouth
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Fucker
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Fucker/R_Fucker_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Fucker/R_Fucker_001/R_Fucker_002
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Fucker/R_Fucker_001/R_Fucker_002/R_Fucker_003
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Little
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Little/R_Little_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Little/R_Little_001/R_Little_002
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Little/R_Little_001/R_Little_002/R_Little_003
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Pointer
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Pointer/R_Pointer_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Pointer/R_Pointer_001/R_Pointer_002
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Pointer/R_Pointer_001/R_Pointer_002/R_Pointer_003
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Ring
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Ring/R_Ring_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Ring/R_Ring_001/R_Ring_002
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Ring/R_Ring_001/R_Ring_002/R_Ring_003
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Thumb
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Thumb/R_Thumb_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Thumb/R_Thumb_001/R_Thumb_002
+        weight: 1
+      - path: pCube1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bored
+      takeName: Bored
+      firstFrame: -1
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/L_Leg
+        weight: 1
+      - path: Armature/Main/L_Leg/L_Laar
+        weight: 1
+      - path: Armature/Main/L_Leg/L_Laar/L_Legg
+        weight: 1
+      - path: Armature/Main/L_Leg/L_Laar/L_Legg/L_Fot
+        weight: 1
+      - path: Armature/Main/R_Leg
+        weight: 1
+      - path: Armature/Main/R_Leg/R_Laar
+        weight: 1
+      - path: Armature/Main/R_Leg/R_Laar/R_Legg
+        weight: 1
+      - path: Armature/Main/R_Leg/R_Laar/R_Legg/R_Fot
+        weight: 1
+      - path: Armature/Main/Torso
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Fucker
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Fucker/L_Fucker_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Fucker/L_Fucker_001/L_Fucker_002
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Fucker/L_Fucker_001/L_Fucker_002/L_Fucker_003
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Little
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Little/L_Little_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Little/L_Little_001/L_Little_002
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Little/L_Little_001/L_Little_002/L_Little_003
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Pointer
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Pointer/L_Pointer_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Pointer/L_Pointer_001/L_Pointer_002
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Pointer/L_Pointer_001/L_Pointer_002/L_Pointer_003
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Ring
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Ring/L_Ring_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Ring/L_Ring_001/L_Ring_002
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Ring/L_Ring_001/L_Ring_002/L_Ring_003
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Thumb
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Thumb/L_Thumb_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Thumb/L_Thumb_001/L_Thumb_002
+        weight: 1
+      - path: Armature/Main/Torso/Neck
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Jaw
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth/L_Mouth
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth/OverMouth
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth/R_Mouth
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth/UnderMouth
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Fucker
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Fucker/R_Fucker_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Fucker/R_Fucker_001/R_Fucker_002
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Fucker/R_Fucker_001/R_Fucker_002/R_Fucker_003
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Little
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Little/R_Little_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Little/R_Little_001/R_Little_002
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Little/R_Little_001/R_Little_002/R_Little_003
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Pointer
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Pointer/R_Pointer_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Pointer/R_Pointer_001/R_Pointer_002
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Pointer/R_Pointer_001/R_Pointer_002/R_Pointer_003
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Ring
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Ring/R_Ring_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Ring/R_Ring_001/R_Ring_002
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Ring/R_Ring_001/R_Ring_002/R_Ring_003
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Thumb
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Thumb/R_Thumb_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Thumb/R_Thumb_001/R_Thumb_002
+        weight: 1
+      - path: pCube1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: -1
+      lastFrame: 419
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/L_Leg
+        weight: 1
+      - path: Armature/Main/L_Leg/L_Laar
+        weight: 1
+      - path: Armature/Main/L_Leg/L_Laar/L_Legg
+        weight: 1
+      - path: Armature/Main/L_Leg/L_Laar/L_Legg/L_Fot
+        weight: 1
+      - path: Armature/Main/R_Leg
+        weight: 1
+      - path: Armature/Main/R_Leg/R_Laar
+        weight: 1
+      - path: Armature/Main/R_Leg/R_Laar/R_Legg
+        weight: 1
+      - path: Armature/Main/R_Leg/R_Laar/R_Legg/R_Fot
+        weight: 1
+      - path: Armature/Main/Torso
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Fucker
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Fucker/L_Fucker_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Fucker/L_Fucker_001/L_Fucker_002
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Fucker/L_Fucker_001/L_Fucker_002/L_Fucker_003
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Little
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Little/L_Little_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Little/L_Little_001/L_Little_002
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Little/L_Little_001/L_Little_002/L_Little_003
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Pointer
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Pointer/L_Pointer_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Pointer/L_Pointer_001/L_Pointer_002
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Pointer/L_Pointer_001/L_Pointer_002/L_Pointer_003
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Ring
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Ring/L_Ring_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Ring/L_Ring_001/L_Ring_002
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Ring/L_Ring_001/L_Ring_002/L_Ring_003
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Thumb
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Thumb/L_Thumb_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Thumb/L_Thumb_001/L_Thumb_002
+        weight: 1
+      - path: Armature/Main/Torso/Neck
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Jaw
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth/L_Mouth
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth/OverMouth
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth/R_Mouth
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth/UnderMouth
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Fucker
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Fucker/R_Fucker_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Fucker/R_Fucker_001/R_Fucker_002
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Fucker/R_Fucker_001/R_Fucker_002/R_Fucker_003
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Little
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Little/R_Little_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Little/R_Little_001/R_Little_002
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Little/R_Little_001/R_Little_002/R_Little_003
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Pointer
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Pointer/R_Pointer_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Pointer/R_Pointer_001/R_Pointer_002
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Pointer/R_Pointer_001/R_Pointer_002/R_Pointer_003
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Ring
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Ring/R_Ring_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Ring/R_Ring_001/R_Ring_002
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Ring/R_Ring_001/R_Ring_002/R_Ring_003
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Thumb
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Thumb/R_Thumb_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Thumb/R_Thumb_001/R_Thumb_002
+        weight: 1
+      - path: pCube1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sprint
+      takeName: Sprint
+      firstFrame: -1
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/L_Leg
+        weight: 1
+      - path: Armature/Main/L_Leg/L_Laar
+        weight: 1
+      - path: Armature/Main/L_Leg/L_Laar/L_Legg
+        weight: 1
+      - path: Armature/Main/L_Leg/L_Laar/L_Legg/L_Fot
+        weight: 1
+      - path: Armature/Main/R_Leg
+        weight: 1
+      - path: Armature/Main/R_Leg/R_Laar
+        weight: 1
+      - path: Armature/Main/R_Leg/R_Laar/R_Legg
+        weight: 1
+      - path: Armature/Main/R_Leg/R_Laar/R_Legg/R_Fot
+        weight: 1
+      - path: Armature/Main/Torso
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Fucker
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Fucker/L_Fucker_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Fucker/L_Fucker_001/L_Fucker_002
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Fucker/L_Fucker_001/L_Fucker_002/L_Fucker_003
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Little
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Little/L_Little_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Little/L_Little_001/L_Little_002
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Little/L_Little_001/L_Little_002/L_Little_003
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Pointer
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Pointer/L_Pointer_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Pointer/L_Pointer_001/L_Pointer_002
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Pointer/L_Pointer_001/L_Pointer_002/L_Pointer_003
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Ring
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Ring/L_Ring_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Ring/L_Ring_001/L_Ring_002
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Ring/L_Ring_001/L_Ring_002/L_Ring_003
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Thumb
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Thumb/L_Thumb_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Thumb/L_Thumb_001/L_Thumb_002
+        weight: 1
+      - path: Armature/Main/Torso/Neck
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Jaw
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth/L_Mouth
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth/OverMouth
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth/R_Mouth
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth/UnderMouth
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Fucker
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Fucker/R_Fucker_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Fucker/R_Fucker_001/R_Fucker_002
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Fucker/R_Fucker_001/R_Fucker_002/R_Fucker_003
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Little
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Little/R_Little_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Little/R_Little_001/R_Little_002
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Little/R_Little_001/R_Little_002/R_Little_003
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Pointer
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Pointer/R_Pointer_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Pointer/R_Pointer_001/R_Pointer_002
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Pointer/R_Pointer_001/R_Pointer_002/R_Pointer_003
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Ring
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Ring/R_Ring_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Ring/R_Ring_001/R_Ring_002
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Ring/R_Ring_001/R_Ring_002/R_Ring_003
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Thumb
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Thumb/R_Thumb_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Thumb/R_Thumb_001/R_Thumb_002
+        weight: 1
+      - path: pCube1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: T_Pose
+      takeName: T_Pose
+      firstFrame: -1
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/L_Leg
+        weight: 1
+      - path: Armature/Main/L_Leg/L_Laar
+        weight: 1
+      - path: Armature/Main/L_Leg/L_Laar/L_Legg
+        weight: 1
+      - path: Armature/Main/L_Leg/L_Laar/L_Legg/L_Fot
+        weight: 1
+      - path: Armature/Main/R_Leg
+        weight: 1
+      - path: Armature/Main/R_Leg/R_Laar
+        weight: 1
+      - path: Armature/Main/R_Leg/R_Laar/R_Legg
+        weight: 1
+      - path: Armature/Main/R_Leg/R_Laar/R_Legg/R_Fot
+        weight: 1
+      - path: Armature/Main/Torso
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Fucker
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Fucker/L_Fucker_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Fucker/L_Fucker_001/L_Fucker_002
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Fucker/L_Fucker_001/L_Fucker_002/L_Fucker_003
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Little
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Little/L_Little_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Little/L_Little_001/L_Little_002
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Little/L_Little_001/L_Little_002/L_Little_003
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Pointer
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Pointer/L_Pointer_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Pointer/L_Pointer_001/L_Pointer_002
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Pointer/L_Pointer_001/L_Pointer_002/L_Pointer_003
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Ring
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Ring/L_Ring_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Ring/L_Ring_001/L_Ring_002
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Ring/L_Ring_001/L_Ring_002/L_Ring_003
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Thumb
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Thumb/L_Thumb_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Thumb/L_Thumb_001/L_Thumb_002
+        weight: 1
+      - path: Armature/Main/Torso/Neck
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Jaw
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth/L_Mouth
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth/OverMouth
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth/R_Mouth
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth/UnderMouth
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Fucker
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Fucker/R_Fucker_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Fucker/R_Fucker_001/R_Fucker_002
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Fucker/R_Fucker_001/R_Fucker_002/R_Fucker_003
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Little
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Little/R_Little_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Little/R_Little_001/R_Little_002
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Little/R_Little_001/R_Little_002/R_Little_003
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Pointer
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Pointer/R_Pointer_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Pointer/R_Pointer_001/R_Pointer_002
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Pointer/R_Pointer_001/R_Pointer_002/R_Pointer_003
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Ring
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Ring/R_Ring_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Ring/R_Ring_001/R_Ring_002
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Ring/R_Ring_001/R_Ring_002/R_Ring_003
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Thumb
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Thumb/R_Thumb_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Thumb/R_Thumb_001/R_Thumb_002
+        weight: 1
+      - path: pCube1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Walk
+      firstFrame: -1
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/L_Leg
+        weight: 1
+      - path: Armature/Main/L_Leg/L_Laar
+        weight: 1
+      - path: Armature/Main/L_Leg/L_Laar/L_Legg
+        weight: 1
+      - path: Armature/Main/L_Leg/L_Laar/L_Legg/L_Fot
+        weight: 1
+      - path: Armature/Main/R_Leg
+        weight: 1
+      - path: Armature/Main/R_Leg/R_Laar
+        weight: 1
+      - path: Armature/Main/R_Leg/R_Laar/R_Legg
+        weight: 1
+      - path: Armature/Main/R_Leg/R_Laar/R_Legg/R_Fot
+        weight: 1
+      - path: Armature/Main/Torso
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Fucker
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Fucker/L_Fucker_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Fucker/L_Fucker_001/L_Fucker_002
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Fucker/L_Fucker_001/L_Fucker_002/L_Fucker_003
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Little
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Little/L_Little_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Little/L_Little_001/L_Little_002
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Little/L_Little_001/L_Little_002/L_Little_003
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Pointer
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Pointer/L_Pointer_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Pointer/L_Pointer_001/L_Pointer_002
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Pointer/L_Pointer_001/L_Pointer_002/L_Pointer_003
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Ring
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Ring/L_Ring_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Ring/L_Ring_001/L_Ring_002
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Ring/L_Ring_001/L_Ring_002/L_Ring_003
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Thumb
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Thumb/L_Thumb_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Thumb/L_Thumb_001/L_Thumb_002
+        weight: 1
+      - path: Armature/Main/Torso/Neck
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Jaw
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth/L_Mouth
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth/OverMouth
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth/R_Mouth
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth/UnderMouth
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Fucker
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Fucker/R_Fucker_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Fucker/R_Fucker_001/R_Fucker_002
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Fucker/R_Fucker_001/R_Fucker_002/R_Fucker_003
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Little
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Little/R_Little_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Little/R_Little_001/R_Little_002
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Little/R_Little_001/R_Little_002/R_Little_003
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Pointer
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Pointer/R_Pointer_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Pointer/R_Pointer_001/R_Pointer_002
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Pointer/R_Pointer_001/R_Pointer_002/R_Pointer_003
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Ring
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Ring/R_Ring_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Ring/R_Ring_001/R_Ring_002
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Ring/R_Ring_001/R_Ring_002/R_Ring_003
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Thumb
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Thumb/R_Thumb_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Thumb/R_Thumb_001/R_Thumb_002
+        weight: 1
+      - path: pCube1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: Run
+      firstFrame: -1
+      lastFrame: 39.6
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/L_Leg
+        weight: 1
+      - path: Armature/Main/L_Leg/L_Laar
+        weight: 1
+      - path: Armature/Main/L_Leg/L_Laar/L_Legg
+        weight: 1
+      - path: Armature/Main/L_Leg/L_Laar/L_Legg/L_Fot
+        weight: 1
+      - path: Armature/Main/R_Leg
+        weight: 1
+      - path: Armature/Main/R_Leg/R_Laar
+        weight: 1
+      - path: Armature/Main/R_Leg/R_Laar/R_Legg
+        weight: 1
+      - path: Armature/Main/R_Leg/R_Laar/R_Legg/R_Fot
+        weight: 1
+      - path: Armature/Main/Torso
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Fucker
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Fucker/L_Fucker_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Fucker/L_Fucker_001/L_Fucker_002
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Fucker/L_Fucker_001/L_Fucker_002/L_Fucker_003
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Little
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Little/L_Little_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Little/L_Little_001/L_Little_002
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Little/L_Little_001/L_Little_002/L_Little_003
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Pointer
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Pointer/L_Pointer_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Pointer/L_Pointer_001/L_Pointer_002
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Pointer/L_Pointer_001/L_Pointer_002/L_Pointer_003
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Ring
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Ring/L_Ring_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Ring/L_Ring_001/L_Ring_002
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Ring/L_Ring_001/L_Ring_002/L_Ring_003
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Thumb
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Thumb/L_Thumb_001
+        weight: 1
+      - path: Armature/Main/Torso/L_Arm/L_Biceps/L_Wanker/L_Thumb/L_Thumb_001/L_Thumb_002
+        weight: 1
+      - path: Armature/Main/Torso/Neck
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Jaw
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth/L_Mouth
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth/OverMouth
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth/R_Mouth
+        weight: 1
+      - path: Armature/Main/Torso/Neck/Head/Face/Mouth/UnderMouth
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Fucker
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Fucker/R_Fucker_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Fucker/R_Fucker_001/R_Fucker_002
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Fucker/R_Fucker_001/R_Fucker_002/R_Fucker_003
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Little
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Little/R_Little_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Little/R_Little_001/R_Little_002
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Little/R_Little_001/R_Little_002/R_Little_003
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Pointer
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Pointer/R_Pointer_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Pointer/R_Pointer_001/R_Pointer_002
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Pointer/R_Pointer_001/R_Pointer_002/R_Pointer_003
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Ring
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Ring/R_Ring_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Ring/R_Ring_001/R_Ring_002
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Ring/R_Ring_001/R_Ring_002/R_Ring_003
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Thumb
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Thumb/R_Thumb_001
+        weight: 1
+      - path: Armature/Main/Torso/R_Arm/R_Biceps/R_Wanker/R_Thumb/R_Thumb_001/R_Thumb_002
+        weight: 1
+      - path: pCube1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
