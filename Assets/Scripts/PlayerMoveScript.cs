@@ -6,7 +6,9 @@ public class PlayerMoveScript : MonoBehaviour {
     public GameObject kamera;
 
     public float acceleration;
-    public float maxSpeed;
+    public float sprintSpeed;
+    public float walkSpeed;
+    //public float maxSpeed;
 
     public float boredWaitTime;
     public bool isCinematic;
@@ -16,6 +18,8 @@ public class PlayerMoveScript : MonoBehaviour {
 
     private Vector3 targetForward;
     private bool boredWait;
+    private bool sprinting;
+    private bool walking;
 
     // Use this for initialization
     void Start () {
@@ -28,6 +32,7 @@ public class PlayerMoveScript : MonoBehaviour {
 	void Update () {
         transform.forward = Vector3.Lerp(transform.forward, targetForward, 0.25f);
         Animation();
+        InputHandeler();
 	}
 
     void FixedUpdate(){
@@ -58,14 +63,37 @@ public class PlayerMoveScript : MonoBehaviour {
 
             movement.Normalize();
 
-            body.AddForce(movement * Time.deltaTime * 500.0f * acceleration);
+            // Modefiers
+            float modefier = 1.0f;
+            if (sprinting)
+            {
+                modefier = 2.0f * sprintSpeed;
+            }
+            else if (walking)
+            {
+                modefier = 0.5f * walkSpeed;
+            }
+
+            body.AddForce(movement * Time.deltaTime * 500.0f * acceleration * modefier);
         }
     }
 
-	
+	private void InputHandeler()
+    {
+        if (sprinting != Input.GetButton("Sprint"))
+        {
+            sprinting = Input.GetButton("Sprint");
+        }
+
+        else if (walking != Input.GetButton("Walk"))
+        {
+            walking = Input.GetButton("Walk");
+        }
+    }
 
     private void Animation()
     {
+        // Move anim
 		if(Input.GetAxis("Vertical") != 0.0f || Input.GetAxis("Horizontal") != 0.0f)
         {
             anime.SetBool("Moving", true);
@@ -75,6 +103,21 @@ public class PlayerMoveScript : MonoBehaviour {
             anime.SetBool("Moving", false);
         }
 
+        // Type of walk anim
+        if (walking)
+        {
+            anime.SetInteger("MoveSpeed", 1);
+        }
+        else if (sprinting)
+        {
+            anime.SetInteger("MoveSpeed", 3);
+        }
+        else
+        {
+            anime.SetInteger("MoveSpeed", 2);
+        }
+
+        // Idle anim
         if (Input.anyKey)
         {
             if (boredWait)
